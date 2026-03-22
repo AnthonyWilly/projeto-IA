@@ -28,3 +28,6 @@ de LLM e avaliação comparativa entre três modelos.
 ## Stack
 
 LangChain · HuggingFace · ChromaDB · Unsloth · RAGAS · Ollama · Python
+
+## Configuração
+Defina as variáveis de ambiente `HF_TOKEN` e `GROQ_API_KEY` com seu token do HuggingFace antes de rodar.
