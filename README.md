@@ -9,7 +9,7 @@ de LLM e avaliação comparativa entre três modelos.
 | Notebook | Descrição |
 |---|---|
 | `Agente_de_estudo_de_IA.ipynb` | Pipeline RAG com LangChain, embeddings Gemma 300M e ChromaDB |
-| `IA_QAT_Gemma3_4B.ipynb` | Fine-tuning do Gemma 3 4B com LoRA via Unsloth no dataset RAFT |
+| `IA_QAT_Gemma3_4B.ipynb` | Fine-tuning do Gemma 3 4B com LoRA via Unsloth no dataset RAFT (adaptado do pipeline oficial Unsloth)|
 | `avaliacao_rag.ipynb` | Avaliação comparativa dos 3 cenários com métricas RAGAS |
 
 ## Modelos Avaliados
